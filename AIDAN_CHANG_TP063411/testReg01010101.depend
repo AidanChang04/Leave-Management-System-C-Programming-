@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1675914902 source:d:\introtoc\testcodes\testreg01010101\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1675951488 source:d:\introtoc\tosubmit\testreg01010101\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1677128073 source:d:\introtoc\tosubmit\aidan_chang_tp063411\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

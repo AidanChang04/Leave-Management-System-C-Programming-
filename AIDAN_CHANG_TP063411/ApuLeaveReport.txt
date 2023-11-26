@@ -1,0 +1,11 @@
+***********MONTHLY REPORT FOR LEAVE APPLICATIONS***********
+-----------------------------------------------------------
+Department/Faculty                Leaves Applied
+-----------------------------------------------------------
+    Accounting                        2    
+      Admin                           0    
+       Arts                           1    
+     Business                         1    
+    Computing                         1    
+    Engineering                       1    
+    Psychology                        2    
